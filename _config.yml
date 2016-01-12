@@ -1,0 +1,14 @@
+layout_spectrum: 0.9139785
+color:
+  saturation: 0.8136201
+  brandStrength: 0.8405018
+  lightness: 0.7291077
+  brandColors:
+    - '#FFFFFF'
+    - '#0C0405'
+    - '#8800FB'
+    - '#654199'
+    - '#912621'
+  rhythmicContrast: 0.2089583
+typography_spectrum: 0.109319
+name: Tbay
